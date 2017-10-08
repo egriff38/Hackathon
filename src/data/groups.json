@@ -1,0 +1,43 @@
+[
+{
+  "name": "System Access", "Color": "Blue", "Picture": "pic1.png", "Description": "THIS IS A COOL BIT OF INFORMATION",
+  "subs":[
+    "VA MainFrame",
+    "WMDS",
+    "Facets"
+  ]
+},
+{
+  "name": "Software", "Color": "Red", "Picture": "pic2.png", "Description": "THIS IS ANOTHER COOL BIT OF INFORMATION",
+  "subs":[
+    "Visio",
+    "Microsoft Office",
+    "Microsoft Project"
+  ]
+},
+{
+  "name": "Hardware", "Color": "Yellow", "Picture": "pic3.png", "Description": "THIS IS NOT A COOL BIT OF INFORMATION",
+  "subs":[
+    "Mouse",
+    "Keyboard",
+    "Printer"
+    
+  ]
+},
+{
+  "name": "Associate Services", "Color": "Green", "Picture": "pic4.png", "Description": "THIS IS SUCH A COOL BIT OF INFORMATION",
+  "subs":[
+    "Onboarding",
+    "Work @ Home",
+    "Building Access"
+  ]
+},
+{
+  "name": "Mobile", "Color": "Orange", "Picture": "pic5.png", "Description": "THIS IS SORT OF A COOL BIT OF INFORMATION",
+  "subs":[
+    "iPhone",
+    "MiFi",
+    "iPad"
+  ]
+}
+]

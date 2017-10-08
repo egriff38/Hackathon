@@ -1,0 +1,17 @@
+{
+  "1": {"Name": "VA MainFrame",       "Group": 1, "Form": "1.json"},
+  "2": {"Name": "WMDS",           "Group": 1, "Form": "2.json"},
+  "3": {"Name": "Facets",         "Group": 1, "Form": "3.json"},
+  "4": {"Name": "Visio",            "Group": 2, "Form": "4.json"},
+  "5": {"Name": "Microsoft Office",   "Group": 2, "Form": "5.json"},
+  "6": {"Name": "Microsoft Project",    "Group": 2, "Form": "6.json"},
+  "7": {"Name": "Mouse",    "Group": 3, "Form": "7.json"},
+  "8": {"Name": "Keyboard", "Group": 3, "Form": "8.json"},
+  "9": {"Name": "Printer",  "Group": 3, "Form": "9.json"},
+  "10": {"Name": "Onboarding",      "Group": 4, "Form": "10.json"},
+  "11": {"Name": "Work @ Home",     "Group": 4, "Form": "11.json"},
+  "12": {"Name": "Building Access", "Group": 4, "Form": "12.json"},
+  "13": {"Name": "iPhone", "Group": 5, "Form": "13.json"},
+  "14": {"Name": "MiFi",    "Group": 5, "Form": "14.json"},
+  "15": {"Name": "iPad",    "Group": 5, "Form": "15.json"}
+}
